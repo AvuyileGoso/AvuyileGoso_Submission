@@ -1,2 +1,2 @@
 # AvuyileGoso_Submission
-ttps://avuyilegoso.github.io/AvuyileGoso_Submission/index.html
+https://avuyilegoso.github.io/AvuyileGoso_Submission/index.html
